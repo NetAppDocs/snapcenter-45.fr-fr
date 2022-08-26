@@ -1,0 +1,27 @@
+---
+permalink: install/task_disconnect_an_iscsi_session.html 
+sidebar: sidebar 
+keywords: iSCSI session 
+summary: 'Il peut arriver que vous deviez déconnecter une session iSCSI d"une cible avec laquelle vous disposez de plusieurs sessions.' 
+---
+= Déconnectez une session iSCSI
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Il peut arriver que vous deviez déconnecter une session iSCSI d'une cible avec laquelle vous disposez de plusieurs sessions.
+
+*Étapes*
+
+. Dans le volet de navigation de gauche, cliquez sur *hosts*.
+. Dans la page hôtes, cliquez sur *session iSCSI*.
+. Dans la liste déroulante *Storage Virtual machine*, sélectionnez la machine virtuelle de stockage (SVM) pour la cible iSCSI.
+. Dans la liste déroulante *Host*, sélectionnez l'hôte de la session.
+. Dans la liste des sessions iSCSI, sélectionnez la session à déconnecter et cliquez sur *déconnecter session*.
+. Dans la boîte de dialogue déconnecter la session, cliquez sur *OK*.
++
+SnapCenter déconnecte la session iSCSI.
+
+

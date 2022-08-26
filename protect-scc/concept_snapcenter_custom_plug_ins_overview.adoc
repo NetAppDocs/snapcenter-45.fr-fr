@@ -1,0 +1,26 @@
+---
+permalink: protect-scc/concept_snapcenter_custom_plug_ins_overview.html 
+sidebar: sidebar 
+keywords: SnapCenter Custom Plug-ins 
+summary: 'Vous pouvez développer des plug-ins personnalisés pour les applications que vous utilisez, puis utiliser SnapCenter pour la sauvegarde, la restauration ou le clonage de ces applications. Comme d"autres plug-ins SnapCenter, vos plug-ins personnalisés font office de composants côté hôte du logiciel NetApp Snap Center, permettant ainsi une protection et une gestion des données intégrant la cohérence applicative.' 
+---
+= Présentation des plug-ins personnalisés SnapCenter
+:allow-uri-read: 
+:icons: font
+:imagesdir: ../media/
+
+
+[role="lead"]
+Vous pouvez développer des plug-ins personnalisés pour les applications que vous utilisez, puis utiliser SnapCenter pour la sauvegarde, la restauration ou le clonage de ces applications. Comme d'autres plug-ins SnapCenter, vos plug-ins personnalisés font office de composants côté hôte du logiciel NetApp SnapCenter, permettant ainsi de protéger et de gérer les données intégrant la cohérence applicative.
+
+Une fois les plug-ins personnalisés installés, vous pouvez utiliser SnapCenter avec la technologie NetApp SnapMirror pour créer des copies en miroir des jeux de sauvegarde sur un autre volume et utiliser la technologie NetApp SnapVault pour effectuer une réplication de sauvegarde disque à disque. Les plug-ins personnalisés peuvent être utilisés dans les environnements Windows et Linux.
+
+
+NOTE: SnapCenter CLI ne prend pas en charge les commandes de plug-ins personnalisés SnapCenter.
+
+NetApp propose des plug-ins personnalisés MySQL et DB2 avec le logiciel SnapCenter 2.0 et versions ultérieures, et le plug-in personnalisé MongoDB depuis 3.0 et versions ultérieures. Ces plug-ins peuvent être téléchargés depuis le https://automationstore.netapp.com/home.shtml["Stockage NetApp Storage Automation Store"^].
+
+
+NOTE: Les plug-ins personnalisés MySQL, DB2 et MongoDB sont pris en charge uniquement par les communautés NetApp.
+
+Vous pouvez créer vos propres plug-ins personnalisés en vous reportant à link:concept_develop_a_plug_in_for_your_application.html["Développez un plug-in pour votre application"^].
