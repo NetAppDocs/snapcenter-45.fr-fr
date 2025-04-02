@@ -4477,7 +4477,6 @@
   <block id="f367d650e57088caf7b808e01235016d" category="inline-link">Comment restaurer à partir d'un stockage secondaire dans SMBR avec SnapCenter</block>
   <block id="41b4c689a8b0e3ba8bfecb2a1e608e46" category="list-text"><block ref="41b4c689a8b0e3ba8bfecb2a1e608e46" category="inline-link-rx"></block></block>
   <block id="f004280f6db6ea5f9302c9851388d751" category="inline-link">Restauration de Microsoft Exchange Mail à partir de SnapVault à l'aide de SMBR</block>
-  <block id="1b0fb59a5bc951f7dc82cb43fe362145" category="list-text"><block ref="00a76af185a73b84e54e96058031aef5" category="inline-link-rx"></block></block>
   <block id="ba8cc99b4cfaa3f9d3c3f0a8380082c0" category="doc">Annuler les opérations de restauration de la base de données Exchange</block>
   <block id="309792b343a6affaca1b564ebe6d92a5" category="summary">Le plug-in SnapCenter pour Microsoft Exchange Server est un composant côté hôte du logiciel NetApp SnapCenter qui permet de gérer la protection des données des bases de données Exchange avec reconnaissance des applications. Le plug-in pour Exchange automatise la sauvegarde et la restauration des bases de données Exchange dans votre environnement SnapCenter.</block>
   <block id="c41e777bd921bd5fc9079273c0ed35db" category="doc">Présentation du plug-in SnapCenter pour Microsoft Exchange Server</block>
@@ -7375,4 +7374,5 @@ NetApp® Single Mailbox Recovery a pris fin le 12 mai 2023. NetApp continuera d'
   <block id="832ab315e74cc6d95c21009b0c52cb2b" category="sidebar">Guide de référence sur les commandes</block>
   <block id="1933d9b990daabf0b619fab4a403f267" category="sidebar">Documentation relative aux versions précédentes de SnapCenter</block>
   <block id="66bdd10c104f52b4f8519b652bc8e084" category="sidebar">Base de connaissances NetApp - SnapCenter</block>
+  <block id="c23d56866a5b11fd0d8dc189fcf21298" category="list-text"><block ref="341e3fddad4b27511133b6917a75bb8a" category="inline-link-rx"></block></block>
 </blocks>
